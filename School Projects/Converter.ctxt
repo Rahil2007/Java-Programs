@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Converter
+comment1.params=kg
+comment1.target=void\ kgToG(int)
+comment2.params=g
+comment2.target=void\ gToKg(int)
+comment3.params=m
+comment3.target=void\ mToCm(int)
+numComments=4

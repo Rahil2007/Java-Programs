@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PerimeterAndArea
+comment1.params=s
+comment1.target=void\ FloatSquare(float)
+comment2.params=l\ b
+comment2.target=void\ FloatRectangle(float,\ float)
+comment3.params=s
+comment3.target=void\ Square(int)
+comment4.params=l\ b
+comment4.target=void\ Rectangle(int,\ int)
+numComments=5

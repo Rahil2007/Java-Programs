@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=MarksCalculator
+comment1.params=studentName\ section\ studentClass\ language\ math\ science\ english\ totalMarks
+comment1.target=void\ Calculate(java.lang.String,\ char,\ int,\ int,\ int,\ int,\ int,\ int)
+numComments=2

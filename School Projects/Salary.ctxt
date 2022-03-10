@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Salary
+comment1.params=
+comment1.target=void\ NetSalary()
+comment2.params=basic\ dapercent\ hrapercent\ pf
+comment2.target=void\ NetSalaryCalculator(int,\ int,\ int,\ int)
+numComments=3
